@@ -9,8 +9,8 @@ Garry's mod doesn't support equipment or attributes. This is a skeleton I wrote 
 >How do I add a equipment piece?
 
 A: You have to learn a little bit of my syntax, which is basicly Acecool2.0 with more of a mess. Facepunch would be proud :D
-1. (Familiarize yourself with the attributes)[lua\equipmentslots\attributeconfig.lua]
-2. (Head to any of the equipment configs)[lua\equipmentslots\equipment\chestconfig.lua]
+1. (Familiarize yourself with the attributes)[./lua/equipmentslots/attributeconfig.lua]
+2. (Head to any of the equipment configs)[./lua/equipmentslots/equipment/chestconfig.lua]
 3. Using this as a guideline, like in DarkRP to create entities or jobs you just add em below the function definition
 
 ```
