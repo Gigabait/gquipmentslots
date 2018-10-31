@@ -3,7 +3,7 @@
 # gquipmentslots
 Garry's mod doesn't support equipment or attributes. This is a skeleton I wrote for my game-mode before integrating, feel free to use under (CC BY-NC 4.0)[https://creativecommons.org/licenses/by-nc/4.0/legalcode] (Full Code)[https://creativecommons.org/licenses/by-nc/4.0/legalcode]
 
-#Workshop Release: https://steamcommunity.com/sharedfiles/filedetails/?id=1553141102
+**Workshop Release:** https://steamcommunity.com/sharedfiles/filedetails/?id=1553141102
 
 **Actual Features:**
 - Variable Flag Library by Josh Moser
