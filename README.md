@@ -1,3 +1,5 @@
+![alt text](https://raw.githubusercontent.com/TibbaRrule/gquipmentslots/master/gquipmentslotslogo.png)
+
 # gquipmentslots
 Garry's mod doesn't support equipment or attributes. This is a skeleton I wrote for my game-mode before integrating, feel free to use under (CC BY-NC 4.0)[https://creativecommons.org/licenses/by-nc/4.0/legalcode] (Full Code)[https://creativecommons.org/licenses/by-nc/4.0/legalcode]
 
