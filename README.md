@@ -5,6 +5,14 @@ Garry's mod doesn't support equipment or attributes. This is a skeleton I wrote 
 
 **Workshop Release:** https://steamcommunity.com/sharedfiles/filedetails/?id=1553141102
 
+**Note you may have to manually put this function in a shared file. This was used for my gamemode to test with admin permissions.**
+```
+local Player = FindMetaTable('Player')
+function Player:IsDev()
+  return self:IsAdmin()
+end
+```
+
 **Actual Features:**
 - Variable Flag Library by Josh Moser
 - Modular Attribute System
